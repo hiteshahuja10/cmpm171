@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/FirstPerson/Maps/TestMap.umap",
+				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/FirstPerson/Maps/TestMap_sharedassets/Layer_Slope_LayerInfo.uasset",
+				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/EasyBuildingSystem/Meshes/Environment/Stylized/Foliage/SM_Tree_004.uasset",
+				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/EasyBuildingSystem/Meshes/Environment/Stylized/Foliage/SM_Tree_003.uasset",
 				"E:/CMPM171/cmpm171/Content/StarterContent/Audio/Collapse01.uasset",
 				"E:/CMPM171/cmpm171/Content/FirstPerson/Blueprints/TestingObject.uasset",
 				"E:/CMPM171/cmpm171/Content/FirstPerson/Maps/TestMap.umap",
@@ -20,12 +28,6 @@
 				"C:/Users/datguyandres/Desktop/cmpm 121/cmpm171/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"C:/Users/datguyandres/Desktop/cmpm 121/cmpm171/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/ZX/TI2V6Z4JA90N0NDCGZRL1V.uasset",
 				"C:/Users/datguyandres/Desktop/cmpm 121/cmpm171/Content/FirstPerson/Maps/TestMap.umap",
-				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/FirstPerson/Maps/TestMap.umap",
-				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/StarterContent/Props/Materials/M_Chair.uasset",
-				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/StarterContent/Props/Materials/M_TableRound.uasset",
-				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/FirstPerson/Maps/TestMap_sharedassets/Layer_Slope_LayerInfo.uasset",
 				"C:/Users/hites/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
