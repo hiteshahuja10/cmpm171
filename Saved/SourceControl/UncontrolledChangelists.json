@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/datguyandres/Desktop/cmpm 121/cmpm171/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/datguyandres/Desktop/cmpm 121/cmpm171/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/datguyandres/Desktop/cmpm 121/cmpm171/Content/FirstPerson/Maps/TestMap.umap",
+				"C:/Users/datguyandres/Desktop/cmpm 121/cmpm171/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/datguyandres/Desktop/cmpm 121/cmpm171/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
 				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Launick/Desktop/Game Design/cmpm171/Content/FirstPerson/Maps/TestMap.umap"
 			]
